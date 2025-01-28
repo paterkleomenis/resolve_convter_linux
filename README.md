@@ -21,8 +21,6 @@ This script converts video files with unsupported audio codecs (e.g., AAC) to a 
 - Fedora
   ```bash
   sudo dnf install -y ffmpeg ffmpeg-devel
-  
-
 
 ## Installation
 1. Clone the repository:

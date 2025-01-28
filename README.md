@@ -9,7 +9,14 @@ This script converts video files with unsupported audio codecs (e.g., AAC) to a 
 
 ## Requirements
 - [FFmpeg](https://ffmpeg.org/download.html) installed on your system.
+- Debian/Ubuntu
+    ```bash
+  sudo apt install -y ffmpeg
+
+- Arch Linux
+  ```bash
   sudo pacman -S ffmpeg
+  
 
 ## Installation
 1. Clone the repository:

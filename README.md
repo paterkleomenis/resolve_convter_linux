@@ -25,5 +25,10 @@ This script converts video files with unsupported audio codecs (e.g., AAC) to a 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/aac-to-resolve.git
-   cd aac-to-resolve
+   https://github.com/paterkleomenis/resolve_convter_linux.git
+   cd resolve_convter_linux
+   sudo chmod +x resolve_convter_linux
+
+## Run the Script
+```bash
+./resolve_convter_linux folder_convert video.mkv video.mp4 
